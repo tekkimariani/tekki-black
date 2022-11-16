@@ -2,7 +2,7 @@
   "name": "tekki-black",
   "displayName": "Tekki Black",
   "description": "Tekkis Black Theme",
-  "publisher": "tekki mariani",
+  "publisher": "tekkimariani",
   "author": {
     "name": "tekki mariani"
   },
@@ -10,8 +10,27 @@
   "engines": {
     "vscode": "^1.73.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tekkimariani/tekki-black"
+  },
+  "bugs": {
+    "url": "https://github.com/tekkimariani/tekki-black/issues"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "icon": "images/just-black.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Black Theme",
+    "Dark Theme",
+    "tekki",
+    "tekki mariani",
+    "tekkimariani"
   ],
   "contributes": {
     "themes": [
